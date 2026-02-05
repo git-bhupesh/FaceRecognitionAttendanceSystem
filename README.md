@@ -96,7 +96,7 @@ CREATE DATABASE face_recognition;
 
 Required tables:
 
--- 1. Create the Student Table
+```1. Create the Student Table
 CREATE TABLE student (
     Student_ID VARCHAR(45) NOT NULL,
     Name VARCHAR(45),
@@ -114,9 +114,9 @@ CREATE TABLE student (
     Teacher_Name VARCHAR(45),
     PhotoSample VARCHAR(45),
     PRIMARY KEY (Student_ID)
-);
+);```
 
--- 2. Create the Attendance Table
+``` 2. Create the Attendance Table
 -- Note: Uses a Composite Primary Key for std_id and std_date as shown in your screenshot.
 CREATE TABLE stdattendance (
     std_id VARCHAR(45) NOT NULL,
@@ -126,9 +126,9 @@ CREATE TABLE stdattendance (
     std_date VARCHAR(45) NOT NULL,
     std_attendance VARCHAR(45),
     PRIMARY KEY (std_id, std_date)
-);
+); ```
 
--- 3. Create the Teacher Registration Table
+``` 3. Create the Teacher Registration Table
 CREATE TABLE regteach (
     fname VARCHAR(50) NOT NULL,
     lname VARCHAR(45),
@@ -139,6 +139,7 @@ CREATE TABLE regteach (
     pwd VARCHAR(45), -- Password
     PRIMARY KEY (fname)
 );
+```
 
 * `student`
 * `stdattendance`
