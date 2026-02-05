@@ -170,13 +170,15 @@ python main.py
 
 ---
 
-## 📸 Screenshots (Optional but Recommended)
-
-*Add screenshots here for better presentation:*
+## 📸 Screenshots
 
 * Dashboard
+<img width="1919" height="1018" alt="Screenshot 2026-02-04 195837" src="https://github.com/user-attachments/assets/ce34154d-067f-448a-913c-e8ddba28545b" />
 * Live recognition screen
+  <img width="1919" height="1030" alt="Screenshot 2026-02-05 174211" src="https://github.com/user-attachments/assets/9816f902-0713-49af-9a08-5529b5545d91" />
+
 * Attendance log
+<img width="1919" height="1020" alt="Screenshot 2026-02-05 174104" src="https://github.com/user-attachments/assets/cfbde15d-13b8-4235-a240-b151a9e92d04" />
 
 ---
 
