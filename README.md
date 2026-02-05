@@ -1,14 +1,3 @@
-Perfect — here’s a **clean, professional, recruiter-ready README** you can **copy-paste directly** into `README.md` on GitHub.
-
-This is written for:
-
-* College project review
-* Resume shortlisting
-* GitHub visitors
-* Interview explanation
-
----
-
 # 🎓 Face Recognition Attendance System
 
 A **Python-based Face Recognition Attendance System** that automatically marks attendance using a live camera feed.
